@@ -1,0 +1,7 @@
+{
+    "configuration": "mode=on",
+    "board": "arduino:megaavr:uno2018",
+    "sketch": "P2MainCode.ino",
+    "port": "/dev/ttyACM0",
+    "programmer": "arduino:medbg"
+}
