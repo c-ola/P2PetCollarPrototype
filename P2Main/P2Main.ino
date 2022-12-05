@@ -18,6 +18,7 @@
 //used example code from
 //https://github.com/PeterEmbedded/BH1750FVI/blob/master/examples/BH1750FVI_4Wire/BH1750FVI_4Wire.ino
 //https://dronebotworkshop.com/usi57600ng-gps-mo#define SECRET_SSID2 ""dules/
+//test 
 
 #include <BH1750FVI.h>
 #include <TinyGPS++.h>
